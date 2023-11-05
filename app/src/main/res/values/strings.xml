@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">imageTextRecognizer</string>
+    <string name="txt_upload_image">Upload Image</string>
+</resources>
